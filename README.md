@@ -22,8 +22,6 @@
     <a href="https://github.com/okanwyl/redirect-freedium"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/okanwyl/redirect-freedium">View Demo</a>
-    ·
     <a href="https://github.com/okanwyl/redirect-freedium/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/okanwyl/redirect-freedium/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
