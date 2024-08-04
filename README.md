@@ -88,4 +88,4 @@ This extension is for educational purposes. Please consider supporting content c
 [issues-shield]: https://img.shields.io/github/issues/okanwyl/redirect-freedium.svg?style=for-the-badge
 [issues-url]: https://github.com/okanwyl/redirect-freedium/issues
 [license-shield]: https://img.shields.io/github/license/okanwyl/redirect-freedium.svg?style=for-the-badge
-[license-url]: https://github.com/okanwyl/redirect-freedium/blob/master/LICENSE
+[license-url]: https://github.com/okanwyl/redirect-freedium/blob/main/LICENSE
