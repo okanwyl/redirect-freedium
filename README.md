@@ -72,6 +72,12 @@ Project Link: [https://github.com/okanwyl/redirect-freedium](https://github.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Disclamier
+This extension is for educational purposes. Please consider supporting content creators by subscribing to Medium if you frequently read their articles.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/okanwyl/redirect-freedium.svg?style=for-the-badge
 [contributors-url]: https://github.com/okanwyl/redirect-freedium/graphs/contributors
