@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Medium to Freedium Redirect",
+  "name": "Redirect Freedium",
   "description": "Redirect Medium articles to Freedium for free access",
   "version": "1.0",
   "icons": {
